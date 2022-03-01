@@ -29,6 +29,8 @@ Ruby
 ### Setup
 ```
 git clone git@github.com:Mithi-code/oop-school-library.git
+cd oop-school-library
+Run using terminal 
 
 ```
 
