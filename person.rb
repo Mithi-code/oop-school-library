@@ -7,13 +7,13 @@ class Person
     @age = age
     @parent_permision = parent_permision
   end
-  
+
   def of_age?
     @age >= 18
   end
-  
+
   def can_use_services?
     @parent_permision || of_age?
   end
   private :of_age?
-  end
+end
