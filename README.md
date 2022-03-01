@@ -28,7 +28,7 @@ Ruby
 
 ### Setup
 ```
-git clone git@github.com:Gbengacode/oop-school-library.git
+git clone git@github.com:Mithi-code/oop-school-library.git
 
 ```
 
@@ -44,7 +44,7 @@ git clone git@github.com:Gbengacode/oop-school-library.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mithi-code/oop-school-library/issues).
 
 ## Show your support
 
